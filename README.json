@@ -1,0 +1,359 @@
+{
+  "items": [
+    {
+      "description": "Interested in getting involved? Join us in Discord and look for the 🛠passport-builders channel.\n(Back to the top)",
+      "items": [],
+      "title": "Getting Involved"
+    },
+    {
+      "description": "A list of samples for integrating Passports into an application.",
+      "items": [],
+      "title": "Samples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nexth Starter Kit (Passport Integration)",
+          "description": "A Next.js + Ethereum starter kit for quickly shipping web3 apps. General starter kit with a sample Passport integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-21T12:49:24Z",
+            "owner": "wslyvh",
+            "repo": "nexth",
+            "stars": 747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Score a Passport (Example)",
+          "description": "Simple, HTML and JavaScript example of how to score a passport using the Scorer API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-03T16:00:33Z",
+            "owner": "passportxyz",
+            "repo": "passport-scorer",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Score Integration",
+          "description": "A Next.js app demonstrating how to integrate a user's passport score.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-03T16:00:33Z",
+            "owner": "passportxyz",
+            "repo": "passport-scorer",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Score Gating",
+          "description": "A Next.js app demonstrating how to gate content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-03T16:00:33Z",
+            "owner": "passportxyz",
+            "repo": "passport-scorer",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airdrop",
+          "description": "A Next.js app for collecting addresses for an airdrop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-03T16:00:33Z",
+            "owner": "passportxyz",
+            "repo": "passport-scorer",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sybil Form",
+          "description": "A fully configurable sybil-resistant form built with Gitcoin Passport, Next.js, Arweave, and EXM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-15T04:47:14Z",
+            "owner": "dabit3",
+            "repo": "sybil-form",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Scorer API"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Example Nextjs Passport SDK Verifier",
+          "description": "Sample Next.js application demonstrating how to use the Passport Verifier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-30T13:13:18Z",
+            "owner": "passportxyz",
+            "repo": "passport-sdk",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Example Passport SDK Reader",
+          "description": "A simple React application demonstrating how to work with the Passport SDK Stamp Reader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-30T13:13:18Z",
+            "owner": "passportxyz",
+            "repo": "passport-sdk",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Example Passport SDK Verifier",
+          "description": "A simple React application demonstrating how to work with the Passport SDK Stamp Verifier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-30T13:13:18Z",
+            "owner": "passportxyz",
+            "repo": "passport-sdk",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scaffold Eth",
+          "description": "Scaffold-ETH Passport starter and demo codebase for how to use Passport in a React application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-12-02T21:56:04Z",
+            "owner": "farque65",
+            "repo": "Scaffold-eth-gitcoin-passport",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Passport Checker",
+          "description": "Community reference application showing what you can do with Passport and how to integrate it into a Next.js application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-06-17T22:46:32Z",
+            "owner": "Rask467",
+            "repo": "passport-checker",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Passport SDK"
+    },
+    {
+      "description": "Sample implementations of Stamp Providers. Use these as a reference for implementing your own.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google OAuth Stamp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T18:01:54Z",
+            "owner": "passportxyz",
+            "repo": "passport",
+            "stars": 1224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ENS Stamp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T18:01:54Z",
+            "owner": "passportxyz",
+            "repo": "passport",
+            "stars": 1224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proof of Humanity Stamp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T18:01:54Z",
+            "owner": "passportxyz",
+            "repo": "passport",
+            "stars": 1224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twitter OAuth Stamp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T18:01:54Z",
+            "owner": "passportxyz",
+            "repo": "passport",
+            "stars": 1224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook Stamp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T18:01:54Z",
+            "owner": "passportxyz",
+            "repo": "passport",
+            "stars": 1224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrightId Stamp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T18:01:54Z",
+            "owner": "passportxyz",
+            "repo": "passport",
+            "stars": 1224
+          }
+        }
+      ],
+      "title": "Stamp Implementations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gitcoin Passport Score NFT: Website",
+          "description": "Repo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-21T12:49:24Z",
+            "owner": "wslyvh",
+            "repo": "nexth",
+            "stars": 747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scaffold-ETH Gitcoin Passport: Website",
+          "description": "Repo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-12-02T21:56:04Z",
+            "owner": "farque65",
+            "repo": "Scaffold-eth-gitcoin-passport",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EthStaker Discord Bot: Website",
+          "description": "Repo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-16T01:41:26Z",
+            "owner": "remyroy",
+            "repo": "ethstaker-discord-bot",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Identity Staking Application: Website",
+          "description": "Repo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-09-21T00:06:39Z",
+            "owner": "moonshotcollective",
+            "repo": "id-staking",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Passport Lookup Tool: Website",
+          "description": "Repo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-13T14:26:51Z",
+            "owner": "moonshotcollective",
+            "repo": "id-staking-passport-api",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Project Showcase"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.\n(Back to the top)",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:17:33.461Z",
+    "original_repository": "passportxyz/awesome-gitcoin-passports",
+    "original_repository_sha": "9429fdd53ad0cbf73bee01bdd1b1d3a4964640cc",
+    "enhanced_repository": "enhansome/enhansome-gitcoin-passports",
+    "enhanced_repository_description": null,
+    "title": "Awesome Gitcoin Passports with stars"
+  }
+}
