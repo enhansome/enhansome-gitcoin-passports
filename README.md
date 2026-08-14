@@ -121,12 +121,12 @@ A list of samples for integrating Passports into an application.
 ### Scorer API
 
 * [Nexth Starter Kit (Passport Integration)](https://github.com/wslyvh/nexth/blob/main/src/pages/examples/passport.tsx) ⭐ 747 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-21: A Next.js + Ethereum starter kit for quickly shipping web3 apps. General starter kit with a sample Passport integration.
-* [Score a Passport (Example)](https://github.com/gitcoinco/passport-scorer/tree/main/examples/example-score-a-passport) ⭐ 180 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-08-03: Simple, HTML and JavaScript example of how to score a passport using the [Scorer API](https://www.scorer.gitcoin.co/).
-* [Score Integration](https://github.com/gitcoinco/passport-scorer/tree/main/examples/score-showcase) ⭐ 180 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-08-03 A Next.js app demonstrating how to integrate a user's passport score.
+* [Score a Passport (Example)](https://github.com/gitcoinco/passport-scorer/tree/main/examples/example-score-a-passport) ⭐ 181 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-08-03: Simple, HTML and JavaScript example of how to score a passport using the [Scorer API](https://www.scorer.gitcoin.co/).
+* [Score Integration](https://github.com/gitcoinco/passport-scorer/tree/main/examples/score-showcase) ⭐ 181 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-08-03 A Next.js app demonstrating how to integrate a user's passport score.
   * [Demo](https://score-showcase.vercel.app/)
-* [Score Gating](https://github.com/gitcoinco/passport-scorer/tree/main/examples/score-gating) ⭐ 180 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-08-03 A Next.js app demonstrating how to gate content.
+* [Score Gating](https://github.com/gitcoinco/passport-scorer/tree/main/examples/score-gating) ⭐ 181 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-08-03 A Next.js app demonstrating how to gate content.
   * [Demo](https://score-gating.vercel.app/)
-* [Airdrop](https://github.com/gitcoinco/passport-scorer/tree/main/examples/airdrop) ⭐ 180 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-08-03 A Next.js app for collecting addresses for an airdrop.
+* [Airdrop](https://github.com/gitcoinco/passport-scorer/tree/main/examples/airdrop) ⭐ 181 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-08-03 A Next.js app for collecting addresses for an airdrop.
   * [Demo](https://airdrop-five.vercel.app/)
 * [Sybil Form](https://github.com/dabit3/sybil-form) ⭐ 35 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-15: A fully configurable sybil-resistant form built with Gitcoin Passport, Next.js, Arweave, and EXM.
 
@@ -183,4 +183,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
