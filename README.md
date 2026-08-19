@@ -121,12 +121,12 @@ A list of samples for integrating Passports into an application.
 ### Scorer API
 
 * [Nexth Starter Kit (Passport Integration)](https://github.com/wslyvh/nexth/blob/main/src/pages/examples/passport.tsx) ⭐ 747 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-21: A Next.js + Ethereum starter kit for quickly shipping web3 apps. General starter kit with a sample Passport integration.
-* [Score a Passport (Example)](https://github.com/gitcoinco/passport-scorer/tree/main/examples/example-score-a-passport) ⭐ 181 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-08-03: Simple, HTML and JavaScript example of how to score a passport using the [Scorer API](https://www.scorer.gitcoin.co/).
-* [Score Integration](https://github.com/gitcoinco/passport-scorer/tree/main/examples/score-showcase) ⭐ 181 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-08-03 A Next.js app demonstrating how to integrate a user's passport score.
+* [Score a Passport (Example)](https://github.com/gitcoinco/passport-scorer/tree/main/examples/example-score-a-passport) ⭐ 181 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-08-19: Simple, HTML and JavaScript example of how to score a passport using the [Scorer API](https://www.scorer.gitcoin.co/).
+* [Score Integration](https://github.com/gitcoinco/passport-scorer/tree/main/examples/score-showcase) ⭐ 181 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-08-19 A Next.js app demonstrating how to integrate a user's passport score.
   * [Demo](https://score-showcase.vercel.app/)
-* [Score Gating](https://github.com/gitcoinco/passport-scorer/tree/main/examples/score-gating) ⭐ 181 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-08-03 A Next.js app demonstrating how to gate content.
+* [Score Gating](https://github.com/gitcoinco/passport-scorer/tree/main/examples/score-gating) ⭐ 181 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-08-19 A Next.js app demonstrating how to gate content.
   * [Demo](https://score-gating.vercel.app/)
-* [Airdrop](https://github.com/gitcoinco/passport-scorer/tree/main/examples/airdrop) ⭐ 181 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-08-03 A Next.js app for collecting addresses for an airdrop.
+* [Airdrop](https://github.com/gitcoinco/passport-scorer/tree/main/examples/airdrop) ⭐ 181 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-08-19 A Next.js app for collecting addresses for an airdrop.
   * [Demo](https://airdrop-five.vercel.app/)
 * [Sybil Form](https://github.com/dabit3/sybil-form) ⭐ 35 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-15: A fully configurable sybil-resistant form built with Gitcoin Passport, Next.js, Arweave, and EXM.
 
@@ -155,12 +155,12 @@ Tutorials and guides for how to work with Passports.
 Sample implementations of Stamp Providers. Use these as a reference for
 implementing your own.
 
-* [Google OAuth Stamp](https://github.com/gitcoinco/passport/pull/31) ⭐ 1,224 | 🐛 930 | 🌐 TypeScript | 📅 2026-08-07
-* [ENS Stamp](https://github.com/gitcoinco/passport/pull/71) ⭐ 1,224 | 🐛 930 | 🌐 TypeScript | 📅 2026-08-07
-* [Proof of Humanity Stamp](https://github.com/gitcoinco/passport/pull/75) ⭐ 1,224 | 🐛 930 | 🌐 TypeScript | 📅 2026-08-07
-* [Twitter OAuth Stamp](https://github.com/gitcoinco/passport/pull/87) ⭐ 1,224 | 🐛 930 | 🌐 TypeScript | 📅 2026-08-07
-* [Facebook Stamp](https://github.com/gitcoinco/passport/pull/94) ⭐ 1,224 | 🐛 930 | 🌐 TypeScript | 📅 2026-08-07
-* [BrightId Stamp](https://github.com/gitcoinco/passport/pull/126) ⭐ 1,224 | 🐛 930 | 🌐 TypeScript | 📅 2026-08-07
+* [Google OAuth Stamp](https://github.com/gitcoinco/passport/pull/31) ⭐ 1,224 | 🐛 930 | 🌐 TypeScript | 📅 2026-08-19
+* [ENS Stamp](https://github.com/gitcoinco/passport/pull/71) ⭐ 1,224 | 🐛 930 | 🌐 TypeScript | 📅 2026-08-19
+* [Proof of Humanity Stamp](https://github.com/gitcoinco/passport/pull/75) ⭐ 1,224 | 🐛 930 | 🌐 TypeScript | 📅 2026-08-19
+* [Twitter OAuth Stamp](https://github.com/gitcoinco/passport/pull/87) ⭐ 1,224 | 🐛 930 | 🌐 TypeScript | 📅 2026-08-19
+* [Facebook Stamp](https://github.com/gitcoinco/passport/pull/94) ⭐ 1,224 | 🐛 930 | 🌐 TypeScript | 📅 2026-08-19
+* [BrightId Stamp](https://github.com/gitcoinco/passport/pull/126) ⭐ 1,224 | 🐛 930 | 🌐 TypeScript | 📅 2026-08-19
 
 ([Back to the top](#top))
 
@@ -183,4 +183,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
