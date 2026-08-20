@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-21T12:49:24Z",
                 "owner": "wslyvh",
                 "repo": "nexth",
-                "stars": 747
+                "stars": 746
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 567848338,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T07:22:28Z",
+                "last_commit": "2026-08-19T17:44:30Z",
                 "owner": "passportxyz",
                 "repo": "passport-scorer",
                 "stars": 181
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 567848338,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T07:22:28Z",
+                "last_commit": "2026-08-19T17:44:30Z",
                 "owner": "passportxyz",
                 "repo": "passport-scorer",
                 "stars": 181
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 567848338,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T07:22:28Z",
+                "last_commit": "2026-08-19T17:44:30Z",
                 "owner": "passportxyz",
                 "repo": "passport-scorer",
                 "stars": 181
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 567848338,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T07:22:28Z",
+                "last_commit": "2026-08-19T17:44:30Z",
                 "owner": "passportxyz",
                 "repo": "passport-scorer",
                 "stars": 181
@@ -200,7 +200,7 @@
             "last_commit": "2026-08-19T13:47:41Z",
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1224
+            "stars": 1225
           }
         },
         {
@@ -215,7 +215,7 @@
             "last_commit": "2026-08-19T13:47:41Z",
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1224
+            "stars": 1225
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2026-08-19T13:47:41Z",
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1224
+            "stars": 1225
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2026-08-19T13:47:41Z",
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1224
+            "stars": 1225
           }
         },
         {
@@ -260,7 +260,7 @@
             "last_commit": "2026-08-19T13:47:41Z",
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1224
+            "stars": 1225
           }
         },
         {
@@ -275,7 +275,7 @@
             "last_commit": "2026-08-19T13:47:41Z",
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1224
+            "stars": 1225
           }
         }
       ],
@@ -296,7 +296,7 @@
             "last_commit": "2026-05-21T12:49:24Z",
             "owner": "wslyvh",
             "repo": "nexth",
-            "stars": 747
+            "stars": 746
           }
         },
         {
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:14:15.821Z",
+    "last_updated": "2026-08-20T17:16:32.240Z",
     "original_repository": "passportxyz/awesome-gitcoin-passports",
     "original_repository_id": 588196881,
     "original_repository_sha": "9429fdd53ad0cbf73bee01bdd1b1d3a4964640cc",
