@@ -178,7 +178,7 @@
               }
             }
           ],
-          "description": "(Back to the top)",
+          "description": null,
           "node_type": "group",
           "title": "Passport SDK"
         }
@@ -186,7 +186,7 @@
       "title": "Samples"
     },
     {
-      "description": "Sample implementations of Stamp Providers. Use these as a reference for implementing your own.\n(Back to the top)",
+      "description": "Sample implementations of Stamp Providers. Use these as a reference for implementing your own.",
       "items": [
         {
           "node_type": "item",
@@ -282,7 +282,7 @@
       "title": "Stamp Implementations"
     },
     {
-      "description": "(Back to the top)",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:09:31.601Z",
+    "last_updated": "2026-08-24T14:40:52.864Z",
     "original_repository": "passportxyz/awesome-gitcoin-passports",
     "original_repository_id": 588196881,
     "original_repository_sha": "9429fdd53ad0cbf73bee01bdd1b1d3a4964640cc",
