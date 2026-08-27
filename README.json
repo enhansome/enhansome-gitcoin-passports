@@ -364,9 +364,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:31:12.461Z",
-    "original_repository": "passportxyz/awesome-gitcoin-passports",
-    "original_repository_id": 588196881,
+    "last_updated": "2026-08-27T11:41:11.773Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 588196881,
+      "language": null,
+      "last_commit": "2023-07-31T13:52:09Z",
+      "owner": "passportxyz",
+      "repo": "awesome-gitcoin-passports",
+      "stars": 116
+    },
     "original_repository_sha": "9429fdd53ad0cbf73bee01bdd1b1d3a4964640cc",
     "enhanced_repository": "enhansome/enhansome-gitcoin-passports",
     "enhanced_repository_description": null,
