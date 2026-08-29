@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Next.js + Ethereum starter kit with Viem, Wagmi, Web3Modal, SIWE, Tailwind, daisyUI and more to quickly ship production-ready Web3 Apps ⚡",
+                "homepage": "https://nexth.vercel.app/",
                 "id": 579172366,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-21T12:49:24Z",
+                "open_issues": 4,
                 "owner": "wslyvh",
                 "repo": "nexth",
-                "stars": 746
+                "stars": 746,
+                "topics": [
+                  "chakra-ui",
+                  "ethereum",
+                  "nextjs",
+                  "solidity",
+                  "typescript",
+                  "wagmi",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-29T00:45:55.639Z"
             },
@@ -28,12 +41,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Passport Scorer as a Service",
+                "homepage": "https://docs.passport.human.tech",
                 "id": 567848338,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T14:11:44Z",
+                "open_issues": 57,
                 "owner": "passportxyz",
                 "repo": "passport-scorer",
-                "stars": 181
+                "stars": 181,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:55.639Z"
             },
@@ -44,12 +62,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Passport Scorer as a Service",
+                "homepage": "https://docs.passport.human.tech",
                 "id": 567848338,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T14:11:44Z",
+                "open_issues": 57,
                 "owner": "passportxyz",
                 "repo": "passport-scorer",
-                "stars": 181
+                "stars": 181,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:55.639Z"
             },
@@ -60,12 +83,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Passport Scorer as a Service",
+                "homepage": "https://docs.passport.human.tech",
                 "id": 567848338,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T14:11:44Z",
+                "open_issues": 57,
                 "owner": "passportxyz",
                 "repo": "passport-scorer",
-                "stars": 181
+                "stars": 181,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:55.639Z"
             },
@@ -76,12 +104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Passport Scorer as a Service",
+                "homepage": "https://docs.passport.human.tech",
                 "id": 567848338,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T14:11:44Z",
+                "open_issues": 57,
                 "owner": "passportxyz",
                 "repo": "passport-scorer",
-                "stars": 181
+                "stars": 181,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:55.639Z"
             },
@@ -92,12 +125,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fully configurable sybil-resistant form built with Gitcoin Passport, Next.js, Arweave, and EXM",
+                "homepage": "https://sybil-forms-example.vercel.app",
                 "id": 601844106,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-03-15T04:47:14Z",
+                "open_issues": 0,
                 "owner": "dabit3",
                 "repo": "sybil-form",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:55.639Z"
             }
@@ -115,12 +153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Gitcoin Passport SDK is comprised of a set of libraries distributed on npm to help developers interact with Passport data living on [Ceramic](https://ceramic.network/).",
+                "homepage": null,
                 "id": 502912320,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-30T13:13:18Z",
+                "open_issues": 14,
                 "owner": "passportxyz",
                 "repo": "passport-sdk",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:55.639Z"
             },
@@ -131,12 +174,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Gitcoin Passport SDK is comprised of a set of libraries distributed on npm to help developers interact with Passport data living on [Ceramic](https://ceramic.network/).",
+                "homepage": null,
                 "id": 502912320,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-30T13:13:18Z",
+                "open_issues": 14,
                 "owner": "passportxyz",
                 "repo": "passport-sdk",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:55.639Z"
             },
@@ -147,12 +195,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Gitcoin Passport SDK is comprised of a set of libraries distributed on npm to help developers interact with Passport data living on [Ceramic](https://ceramic.network/).",
+                "homepage": null,
                 "id": 502912320,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-30T13:13:18Z",
+                "open_issues": 14,
                 "owner": "passportxyz",
                 "repo": "passport-sdk",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:55.639Z"
             },
@@ -163,12 +216,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create projects with Gitcoin Passport",
+                "homepage": null,
                 "id": 503580015,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2022-12-02T21:56:04Z",
+                "open_issues": 1,
                 "owner": "farque65",
                 "repo": "Scaffold-eth-gitcoin-passport",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:55.639Z"
             },
@@ -179,12 +237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 503815023,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-06-17T22:46:32Z",
+                "open_issues": 1,
                 "owner": "Rask467",
                 "repo": "passport-checker",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:55.639Z"
             }
@@ -206,12 +269,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Passport allows users to prove their identity through a secure, decentralized UI",
+            "homepage": null,
             "id": 469847426,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:36:55Z",
+            "open_issues": 932,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1226
+            "stars": 1226,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
         },
@@ -222,12 +290,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Passport allows users to prove their identity through a secure, decentralized UI",
+            "homepage": null,
             "id": 469847426,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:36:55Z",
+            "open_issues": 932,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1226
+            "stars": 1226,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
         },
@@ -238,12 +311,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Passport allows users to prove their identity through a secure, decentralized UI",
+            "homepage": null,
             "id": 469847426,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:36:55Z",
+            "open_issues": 932,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1226
+            "stars": 1226,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
         },
@@ -254,12 +332,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Passport allows users to prove their identity through a secure, decentralized UI",
+            "homepage": null,
             "id": 469847426,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:36:55Z",
+            "open_issues": 932,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1226
+            "stars": 1226,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
         },
@@ -270,12 +353,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Passport allows users to prove their identity through a secure, decentralized UI",
+            "homepage": null,
             "id": 469847426,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:36:55Z",
+            "open_issues": 932,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1226
+            "stars": 1226,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
         },
@@ -286,12 +374,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Passport allows users to prove their identity through a secure, decentralized UI",
+            "homepage": null,
             "id": 469847426,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:36:55Z",
+            "open_issues": 932,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1226
+            "stars": 1226,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
         }
@@ -308,12 +401,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Next.js + Ethereum starter kit with Viem, Wagmi, Web3Modal, SIWE, Tailwind, daisyUI and more to quickly ship production-ready Web3 Apps ⚡",
+            "homepage": "https://nexth.vercel.app/",
             "id": 579172366,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-21T12:49:24Z",
+            "open_issues": 4,
             "owner": "wslyvh",
             "repo": "nexth",
-            "stars": 746
+            "stars": 746,
+            "topics": [
+              "chakra-ui",
+              "ethereum",
+              "nextjs",
+              "solidity",
+              "typescript",
+              "wagmi",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
         },
@@ -324,12 +430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create projects with Gitcoin Passport",
+            "homepage": null,
             "id": 503580015,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-12-02T21:56:04Z",
+            "open_issues": 1,
             "owner": "farque65",
             "repo": "Scaffold-eth-gitcoin-passport",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
         },
@@ -340,12 +451,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EthStaker discord bot",
+            "homepage": null,
             "id": 497945866,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-16T01:41:26Z",
+            "open_issues": 1,
             "owner": "remyroy",
             "repo": "ethstaker-discord-bot",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
         },
@@ -356,12 +472,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://staking.passport.gitcoin.co",
             "id": 510937513,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-09-21T00:06:39Z",
+            "open_issues": 32,
             "owner": "moonshotcollective",
             "repo": "id-staking",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "dapp",
+              "ethereum",
+              "solidity",
+              "staking"
+            ]
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
         },
@@ -372,12 +498,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "id-staking-passport-api.vercel.app",
             "id": 524198744,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-10-13T14:26:51Z",
+            "open_issues": 1,
             "owner": "moonshotcollective",
             "repo": "id-staking-passport-api",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
         }
@@ -386,15 +517,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:45:55.639Z",
+    "last_updated": "2026-08-29T04:56:17.239Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of all the awesome resources, case studies, samples, and Stamp implementations related to Gitcoin's Passport",
+      "homepage": null,
       "id": 588196881,
       "language": null,
+      "license": null,
       "last_commit": "2023-07-31T13:52:09Z",
+      "open_issues": 0,
       "owner": "passportxyz",
       "repo": "awesome-gitcoin-passports",
-      "stars": 116
+      "stars": 116,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "gitcoin",
+        "gitcoin-passport"
+      ]
     },
     "original_repository_sha": "9429fdd53ad0cbf73bee01bdd1b1d3a4964640cc",
     "enhanced_repository": "enhansome/enhansome-gitcoin-passports",
