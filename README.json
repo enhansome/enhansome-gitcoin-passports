@@ -18,7 +18,8 @@
                 "owner": "wslyvh",
                 "repo": "nexth",
                 "stars": 746
-              }
+              },
+              "first_seen": "2026-08-29T00:45:55.639Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "passportxyz",
                 "repo": "passport-scorer",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-29T00:45:55.639Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "passportxyz",
                 "repo": "passport-scorer",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-29T00:45:55.639Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "passportxyz",
                 "repo": "passport-scorer",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-29T00:45:55.639Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "passportxyz",
                 "repo": "passport-scorer",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-29T00:45:55.639Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "dabit3",
                 "repo": "sybil-form",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:45:55.639Z"
             }
           ],
           "description": null,
@@ -115,7 +121,8 @@
                 "owner": "passportxyz",
                 "repo": "passport-sdk",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-29T00:45:55.639Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "passportxyz",
                 "repo": "passport-sdk",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-29T00:45:55.639Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "passportxyz",
                 "repo": "passport-sdk",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-29T00:45:55.639Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "farque65",
                 "repo": "Scaffold-eth-gitcoin-passport",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:45:55.639Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "Rask467",
                 "repo": "passport-checker",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:45:55.639Z"
             }
           ],
           "description": null,
@@ -197,11 +208,12 @@
             "archived": false,
             "id": 469847426,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:10:14Z",
+            "last_commit": "2026-08-28T13:36:55Z",
             "owner": "passportxyz",
             "repo": "passport",
             "stars": 1226
-          }
+          },
+          "first_seen": "2026-08-29T00:45:55.639Z"
         },
         {
           "node_type": "item",
@@ -212,11 +224,12 @@
             "archived": false,
             "id": 469847426,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:10:14Z",
+            "last_commit": "2026-08-28T13:36:55Z",
             "owner": "passportxyz",
             "repo": "passport",
             "stars": 1226
-          }
+          },
+          "first_seen": "2026-08-29T00:45:55.639Z"
         },
         {
           "node_type": "item",
@@ -227,11 +240,12 @@
             "archived": false,
             "id": 469847426,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:10:14Z",
+            "last_commit": "2026-08-28T13:36:55Z",
             "owner": "passportxyz",
             "repo": "passport",
             "stars": 1226
-          }
+          },
+          "first_seen": "2026-08-29T00:45:55.639Z"
         },
         {
           "node_type": "item",
@@ -242,11 +256,12 @@
             "archived": false,
             "id": 469847426,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:10:14Z",
+            "last_commit": "2026-08-28T13:36:55Z",
             "owner": "passportxyz",
             "repo": "passport",
             "stars": 1226
-          }
+          },
+          "first_seen": "2026-08-29T00:45:55.639Z"
         },
         {
           "node_type": "item",
@@ -257,11 +272,12 @@
             "archived": false,
             "id": 469847426,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:10:14Z",
+            "last_commit": "2026-08-28T13:36:55Z",
             "owner": "passportxyz",
             "repo": "passport",
             "stars": 1226
-          }
+          },
+          "first_seen": "2026-08-29T00:45:55.639Z"
         },
         {
           "node_type": "item",
@@ -272,11 +288,12 @@
             "archived": false,
             "id": 469847426,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:10:14Z",
+            "last_commit": "2026-08-28T13:36:55Z",
             "owner": "passportxyz",
             "repo": "passport",
             "stars": 1226
-          }
+          },
+          "first_seen": "2026-08-29T00:45:55.639Z"
         }
       ],
       "title": "Stamp Implementations"
@@ -297,7 +314,8 @@
             "owner": "wslyvh",
             "repo": "nexth",
             "stars": 746
-          }
+          },
+          "first_seen": "2026-08-29T00:45:55.639Z"
         },
         {
           "node_type": "item",
@@ -312,7 +330,8 @@
             "owner": "farque65",
             "repo": "Scaffold-eth-gitcoin-passport",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:45:55.639Z"
         },
         {
           "node_type": "item",
@@ -327,7 +346,8 @@
             "owner": "remyroy",
             "repo": "ethstaker-discord-bot",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:45:55.639Z"
         },
         {
           "node_type": "item",
@@ -342,7 +362,8 @@
             "owner": "moonshotcollective",
             "repo": "id-staking",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:45:55.639Z"
         },
         {
           "node_type": "item",
@@ -357,14 +378,15 @@
             "owner": "moonshotcollective",
             "repo": "id-staking-passport-api",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:45:55.639Z"
         }
       ],
       "title": "Project Showcase"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:11:04.530Z",
+    "last_updated": "2026-08-29T00:45:55.639Z",
     "original_repository_info": {
       "archived": false,
       "id": 588196881,
