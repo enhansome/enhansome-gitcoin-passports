@@ -275,10 +275,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:36:55Z",
-            "open_issues": 933,
+            "open_issues": 883,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1226,
+            "stars": 1225,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
@@ -296,10 +296,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:36:55Z",
-            "open_issues": 933,
+            "open_issues": 883,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1226,
+            "stars": 1225,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
@@ -317,10 +317,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:36:55Z",
-            "open_issues": 933,
+            "open_issues": 883,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1226,
+            "stars": 1225,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
@@ -338,10 +338,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:36:55Z",
-            "open_issues": 933,
+            "open_issues": 883,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1226,
+            "stars": 1225,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
@@ -359,10 +359,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:36:55Z",
-            "open_issues": 933,
+            "open_issues": 883,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1226,
+            "stars": 1225,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
@@ -380,10 +380,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:36:55Z",
-            "open_issues": 933,
+            "open_issues": 883,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1226,
+            "stars": 1225,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:39:39.786Z",
+    "last_updated": "2026-09-01T19:39:32.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of all the awesome resources, case studies, samples, and Stamp implementations related to Gitcoin's Passport",
