@@ -155,12 +155,12 @@ Tutorials and guides for how to work with Passports.
 Sample implementations of Stamp Providers. Use these as a reference for
 implementing your own.
 
-* [Google OAuth Stamp](https://github.com/gitcoinco/passport/pull/31) ⭐ 1,224 | 🐛 843 | 🌐 TypeScript | 📅 2026-09-07
-* [ENS Stamp](https://github.com/gitcoinco/passport/pull/71) ⭐ 1,224 | 🐛 843 | 🌐 TypeScript | 📅 2026-09-07
-* [Proof of Humanity Stamp](https://github.com/gitcoinco/passport/pull/75) ⭐ 1,224 | 🐛 843 | 🌐 TypeScript | 📅 2026-09-07
-* [Twitter OAuth Stamp](https://github.com/gitcoinco/passport/pull/87) ⭐ 1,224 | 🐛 843 | 🌐 TypeScript | 📅 2026-09-07
-* [Facebook Stamp](https://github.com/gitcoinco/passport/pull/94) ⭐ 1,224 | 🐛 843 | 🌐 TypeScript | 📅 2026-09-07
-* [BrightId Stamp](https://github.com/gitcoinco/passport/pull/126) ⭐ 1,224 | 🐛 843 | 🌐 TypeScript | 📅 2026-09-07
+* [Google OAuth Stamp](https://github.com/gitcoinco/passport/pull/31) ⭐ 1,224 | 🐛 842 | 🌐 TypeScript | 📅 2026-09-07
+* [ENS Stamp](https://github.com/gitcoinco/passport/pull/71) ⭐ 1,224 | 🐛 842 | 🌐 TypeScript | 📅 2026-09-07
+* [Proof of Humanity Stamp](https://github.com/gitcoinco/passport/pull/75) ⭐ 1,224 | 🐛 842 | 🌐 TypeScript | 📅 2026-09-07
+* [Twitter OAuth Stamp](https://github.com/gitcoinco/passport/pull/87) ⭐ 1,224 | 🐛 842 | 🌐 TypeScript | 📅 2026-09-07
+* [Facebook Stamp](https://github.com/gitcoinco/passport/pull/94) ⭐ 1,224 | 🐛 842 | 🌐 TypeScript | 📅 2026-09-07
+* [BrightId Stamp](https://github.com/gitcoinco/passport/pull/126) ⭐ 1,224 | 🐛 842 | 🌐 TypeScript | 📅 2026-09-07
 
 ([Back to the top](#top))
 
@@ -183,4 +183,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
