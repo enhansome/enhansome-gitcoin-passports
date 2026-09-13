@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "wslyvh",
                 "repo": "nexth",
-                "stars": 747,
+                "stars": 746,
                 "topics": [
                   "chakra-ui",
                   "ethereum",
@@ -278,7 +278,7 @@
             "open_issues": 842,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1224,
+            "stars": 1223,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
@@ -299,7 +299,7 @@
             "open_issues": 842,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1224,
+            "stars": 1223,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
@@ -320,7 +320,7 @@
             "open_issues": 842,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1224,
+            "stars": 1223,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
@@ -341,7 +341,7 @@
             "open_issues": 842,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1224,
+            "stars": 1223,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
@@ -362,7 +362,7 @@
             "open_issues": 842,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1224,
+            "stars": 1223,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
@@ -383,7 +383,7 @@
             "open_issues": 842,
             "owner": "passportxyz",
             "repo": "passport",
-            "stars": 1224,
+            "stars": 1223,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:55.639Z"
@@ -410,7 +410,7 @@
             "open_issues": 4,
             "owner": "wslyvh",
             "repo": "nexth",
-            "stars": 747,
+            "stars": 746,
             "topics": [
               "chakra-ui",
               "ethereum",
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T18:49:46.143Z",
+    "last_updated": "2026-09-13T19:00:18.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of all the awesome resources, case studies, samples, and Stamp implementations related to Gitcoin's Passport",
