@@ -120,7 +120,7 @@ A list of samples for integrating Passports into an application.
 
 ### Scorer API
 
-* [Nexth Starter Kit (Passport Integration)](https://github.com/wslyvh/nexth/blob/main/src/pages/examples/passport.tsx) ⭐ 746 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-21: A Next.js + Ethereum starter kit for quickly shipping web3 apps. General starter kit with a sample Passport integration.
+* [Nexth Starter Kit (Passport Integration)](https://github.com/wslyvh/nexth/blob/main/src/pages/examples/passport.tsx) ⭐ 745 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-21: A Next.js + Ethereum starter kit for quickly shipping web3 apps. General starter kit with a sample Passport integration.
 * [Score a Passport (Example)](https://github.com/gitcoinco/passport-scorer/tree/main/examples/example-score-a-passport) ⭐ 181 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-09-06: Simple, HTML and JavaScript example of how to score a passport using the [Scorer API](https://www.scorer.gitcoin.co/).
 * [Score Integration](https://github.com/gitcoinco/passport-scorer/tree/main/examples/score-showcase) ⭐ 181 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2026-09-06 A Next.js app demonstrating how to integrate a user's passport score.
   * [Demo](https://score-showcase.vercel.app/)
@@ -155,18 +155,18 @@ Tutorials and guides for how to work with Passports.
 Sample implementations of Stamp Providers. Use these as a reference for
 implementing your own.
 
-* [Google OAuth Stamp](https://github.com/gitcoinco/passport/pull/31) ⭐ 1,223 | 🐛 842 | 🌐 TypeScript | 📅 2026-09-07
-* [ENS Stamp](https://github.com/gitcoinco/passport/pull/71) ⭐ 1,223 | 🐛 842 | 🌐 TypeScript | 📅 2026-09-07
-* [Proof of Humanity Stamp](https://github.com/gitcoinco/passport/pull/75) ⭐ 1,223 | 🐛 842 | 🌐 TypeScript | 📅 2026-09-07
-* [Twitter OAuth Stamp](https://github.com/gitcoinco/passport/pull/87) ⭐ 1,223 | 🐛 842 | 🌐 TypeScript | 📅 2026-09-07
-* [Facebook Stamp](https://github.com/gitcoinco/passport/pull/94) ⭐ 1,223 | 🐛 842 | 🌐 TypeScript | 📅 2026-09-07
-* [BrightId Stamp](https://github.com/gitcoinco/passport/pull/126) ⭐ 1,223 | 🐛 842 | 🌐 TypeScript | 📅 2026-09-07
+* [Google OAuth Stamp](https://github.com/gitcoinco/passport/pull/31) ⭐ 1,223 | 🐛 840 | 🌐 TypeScript | 📅 2026-09-07
+* [ENS Stamp](https://github.com/gitcoinco/passport/pull/71) ⭐ 1,223 | 🐛 840 | 🌐 TypeScript | 📅 2026-09-07
+* [Proof of Humanity Stamp](https://github.com/gitcoinco/passport/pull/75) ⭐ 1,223 | 🐛 840 | 🌐 TypeScript | 📅 2026-09-07
+* [Twitter OAuth Stamp](https://github.com/gitcoinco/passport/pull/87) ⭐ 1,223 | 🐛 840 | 🌐 TypeScript | 📅 2026-09-07
+* [Facebook Stamp](https://github.com/gitcoinco/passport/pull/94) ⭐ 1,223 | 🐛 840 | 🌐 TypeScript | 📅 2026-09-07
+* [BrightId Stamp](https://github.com/gitcoinco/passport/pull/126) ⭐ 1,223 | 🐛 840 | 🌐 TypeScript | 📅 2026-09-07
 
 ([Back to the top](#top))
 
 ## Project Showcase
 
-* Gitcoin Passport Score NFT: [Website](https://passport-score-nft.vercel.app/) | [Repo](https://github.com/wslyvh/nexth/tree/passport-signature-recovery) ⭐ 746 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-21
+* Gitcoin Passport Score NFT: [Website](https://passport-score-nft.vercel.app/) | [Repo](https://github.com/wslyvh/nexth/tree/passport-signature-recovery) ⭐ 745 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-21
 * Scaffold-ETH Gitcoin Passport: [Website](https://lucianhymer.github.io/Scaffold-eth-gitcoin-passport/) | [Repo](https://github.com/farque65/Scaffold-eth-gitcoin-passport) ⭐ 9 | 🐛 1 | 🌐 CSS | 📅 2022-12-02
 * EthStaker Discord Bot: [Website](https://github.com/remyroy/ethstaker-discord-bot) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-01-16 | [Repo](https://github.com/remyroy/ethstaker-discord-bot) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-01-16
 * Identity Staking Application: [Website](https://staking.passport.gitcoin.co/) | [Repo](https://github.com/moonshotcollective/id-staking) ⭐ 5 | 🐛 32 | 🌐 CSS | 📅 2022-09-21
@@ -183,4 +183,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
