@@ -265,7 +265,7 @@
         {
           "node_type": "item",
           "title": "Google OAuth Stamp",
-          "description": null,
+          "description": "passportxyz/passport",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -286,7 +286,7 @@
         {
           "node_type": "item",
           "title": "ENS Stamp",
-          "description": null,
+          "description": "passportxyz/passport",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -307,7 +307,7 @@
         {
           "node_type": "item",
           "title": "Proof of Humanity Stamp",
-          "description": null,
+          "description": "passportxyz/passport",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -328,7 +328,7 @@
         {
           "node_type": "item",
           "title": "Twitter OAuth Stamp",
-          "description": null,
+          "description": "passportxyz/passport",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -349,7 +349,7 @@
         {
           "node_type": "item",
           "title": "Facebook Stamp",
-          "description": null,
+          "description": "passportxyz/passport",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -370,7 +370,7 @@
         {
           "node_type": "item",
           "title": "BrightId Stamp",
-          "description": null,
+          "description": "passportxyz/passport",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -397,7 +397,7 @@
         {
           "node_type": "item",
           "title": "Gitcoin Passport Score NFT: Website",
-          "description": "Repo",
+          "description": "wslyvh/nexth",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -426,7 +426,7 @@
         {
           "node_type": "item",
           "title": "Scaffold-ETH Gitcoin Passport: Website",
-          "description": "Repo",
+          "description": "farque65/Scaffold-eth-gitcoin-passport",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -447,7 +447,7 @@
         {
           "node_type": "item",
           "title": "EthStaker Discord Bot: Website",
-          "description": "Repo",
+          "description": "remyroy/ethstaker-discord-bot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -468,7 +468,7 @@
         {
           "node_type": "item",
           "title": "Identity Staking Application: Website",
-          "description": "Repo",
+          "description": "moonshotcollective/id-staking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -494,7 +494,7 @@
         {
           "node_type": "item",
           "title": "Passport Lookup Tool: Website",
-          "description": "Repo",
+          "description": "moonshotcollective/id-staking-passport-api",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:03:47.679Z",
+    "last_updated": "2026-10-03T04:49:19.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of all the awesome resources, case studies, samples, and Stamp implementations related to Gitcoin's Passport",
