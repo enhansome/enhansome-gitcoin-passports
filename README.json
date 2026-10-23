@@ -54,6 +54,90 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:55.639Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Score a Passport (Example)",
+              "description": "Simple, HTML and JavaScript example of how to score a passport using the Scorer API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Passport Scorer as a Service",
+                "homepage": "https://docs.passport.human.tech",
+                "id": 567848338,
+                "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-23T18:14:43Z",
+                "open_issues": 67,
+                "owner": "passportxyz",
+                "repo": "passport-scorer",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-23T20:07:35.069Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Score Integration",
+              "description": "A Next.js app demonstrating how to integrate a user's passport score.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Passport Scorer as a Service",
+                "homepage": "https://docs.passport.human.tech",
+                "id": 567848338,
+                "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-23T18:14:43Z",
+                "open_issues": 67,
+                "owner": "passportxyz",
+                "repo": "passport-scorer",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-23T20:07:35.069Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Score Gating",
+              "description": "A Next.js app demonstrating how to gate content.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Passport Scorer as a Service",
+                "homepage": "https://docs.passport.human.tech",
+                "id": 567848338,
+                "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-23T18:14:43Z",
+                "open_issues": 67,
+                "owner": "passportxyz",
+                "repo": "passport-scorer",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-23T20:07:35.069Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Airdrop",
+              "description": "A Next.js app for collecting addresses for an airdrop.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Passport Scorer as a Service",
+                "homepage": "https://docs.passport.human.tech",
+                "id": 567848338,
+                "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-23T18:14:43Z",
+                "open_issues": 67,
+                "owner": "passportxyz",
+                "repo": "passport-scorer",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-23T20:07:35.069Z"
             }
           ],
           "description": null,
@@ -174,6 +258,138 @@
         }
       ],
       "title": "Samples"
+    },
+    {
+      "description": "Sample implementations of Stamp Providers. Use these as a reference for implementing your own.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google OAuth Stamp",
+          "description": "passportxyz/passport",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Passport allows users to prove their identity through a secure, decentralized UI",
+            "homepage": null,
+            "id": 469847426,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-23T18:54:11Z",
+            "open_issues": 844,
+            "owner": "passportxyz",
+            "repo": "passport",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-23T20:07:35.069Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ENS Stamp",
+          "description": "passportxyz/passport",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Passport allows users to prove their identity through a secure, decentralized UI",
+            "homepage": null,
+            "id": 469847426,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-23T18:54:11Z",
+            "open_issues": 844,
+            "owner": "passportxyz",
+            "repo": "passport",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-23T20:07:35.069Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Proof of Humanity Stamp",
+          "description": "passportxyz/passport",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Passport allows users to prove their identity through a secure, decentralized UI",
+            "homepage": null,
+            "id": 469847426,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-23T18:54:11Z",
+            "open_issues": 844,
+            "owner": "passportxyz",
+            "repo": "passport",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-23T20:07:35.069Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Twitter OAuth Stamp",
+          "description": "passportxyz/passport",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Passport allows users to prove their identity through a secure, decentralized UI",
+            "homepage": null,
+            "id": 469847426,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-23T18:54:11Z",
+            "open_issues": 844,
+            "owner": "passportxyz",
+            "repo": "passport",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-23T20:07:35.069Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook Stamp",
+          "description": "passportxyz/passport",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Passport allows users to prove their identity through a secure, decentralized UI",
+            "homepage": null,
+            "id": 469847426,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-23T18:54:11Z",
+            "open_issues": 844,
+            "owner": "passportxyz",
+            "repo": "passport",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-23T20:07:35.069Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BrightId Stamp",
+          "description": "passportxyz/passport",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Passport allows users to prove their identity through a secure, decentralized UI",
+            "homepage": null,
+            "id": 469847426,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-23T18:54:11Z",
+            "open_issues": 844,
+            "owner": "passportxyz",
+            "repo": "passport",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-23T20:07:35.069Z"
+        }
+      ],
+      "title": "Stamp Implementations"
     },
     {
       "description": null,
@@ -301,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:20:10.104Z",
+    "last_updated": "2026-10-23T20:07:35.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of all the awesome resources, case studies, samples, and Stamp implementations related to Gitcoin's Passport",
