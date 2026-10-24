@@ -120,7 +120,7 @@ A list of samples for integrating Passports into an application.
 
 ### Scorer API
 
-* [Nexth Starter Kit (Passport Integration)](https://github.com/wslyvh/nexth/blob/main/src/pages/examples/passport.tsx) ⭐ 745 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-21: A Next.js + Ethereum starter kit for quickly shipping web3 apps. General starter kit with a sample Passport integration.
+* [Nexth Starter Kit (Passport Integration)](https://github.com/wslyvh/nexth/blob/main/src/pages/examples/passport.tsx) ⭐ 744 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-21: A Next.js + Ethereum starter kit for quickly shipping web3 apps. General starter kit with a sample Passport integration.
 * [Sybil Form](https://github.com/dabit3/sybil-form) ⭐ 35 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-15: A fully configurable sybil-resistant form built with Gitcoin Passport, Next.js, Arweave, and EXM.
 * [Score a Passport (Example)](https://github.com/gitcoinco/passport-scorer/tree/main/examples/example-score-a-passport) ⭐ 1 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2026-10-23: Simple, HTML and JavaScript example of how to score a passport using the [Scorer API](https://www.scorer.gitcoin.co/).
 * [Score Integration](https://github.com/gitcoinco/passport-scorer/tree/main/examples/score-showcase) ⭐ 1 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2026-10-23 A Next.js app demonstrating how to integrate a user's passport score.
@@ -166,7 +166,7 @@ implementing your own.
 
 ## Project Showcase
 
-* Gitcoin Passport Score NFT: [Website](https://passport-score-nft.vercel.app/) | [Repo](https://github.com/wslyvh/nexth/tree/passport-signature-recovery) ⭐ 745 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-21
+* Gitcoin Passport Score NFT: [Website](https://passport-score-nft.vercel.app/) | [Repo](https://github.com/wslyvh/nexth/tree/passport-signature-recovery) ⭐ 744 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-21
 * Scaffold-ETH Gitcoin Passport: [Website](https://lucianhymer.github.io/Scaffold-eth-gitcoin-passport/) | [Repo](https://github.com/farque65/Scaffold-eth-gitcoin-passport) ⭐ 9 | 🐛 1 | 🌐 CSS | 📅 2022-12-02
 * EthStaker Discord Bot: [Website](https://github.com/remyroy/ethstaker-discord-bot) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-01-16 | [Repo](https://github.com/remyroy/ethstaker-discord-bot) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-01-16
 * Identity Staking Application: [Website](https://staking.passport.gitcoin.co/) | [Repo](https://github.com/moonshotcollective/id-staking) ⭐ 5 | 🐛 32 | 🌐 CSS | 📅 2022-09-21
@@ -183,4 +183,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
