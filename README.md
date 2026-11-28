@@ -122,19 +122,19 @@ A list of samples for integrating Passports into an application.
 
 * [Nexth Starter Kit (Passport Integration)](https://github.com/wslyvh/nexth/blob/main/src/pages/examples/passport.tsx) ⭐ 744 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-21: A Next.js + Ethereum starter kit for quickly shipping web3 apps. General starter kit with a sample Passport integration.
 * [Sybil Form](https://github.com/dabit3/sybil-form) ⭐ 35 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-15: A fully configurable sybil-resistant form built with Gitcoin Passport, Next.js, Arweave, and EXM.
-* [Score a Passport (Example)](https://github.com/gitcoinco/passport-scorer/tree/main/examples/example-score-a-passport) ⭐ 1 | 🐛 65 | 🌐 Jupyter Notebook | 📅 2026-11-26: Simple, HTML and JavaScript example of how to score a passport using the [Scorer API](https://www.scorer.gitcoin.co/).
-* [Score Integration](https://github.com/gitcoinco/passport-scorer/tree/main/examples/score-showcase) ⭐ 1 | 🐛 65 | 🌐 Jupyter Notebook | 📅 2026-11-26 A Next.js app demonstrating how to integrate a user's passport score.
+* [Score a Passport (Example)](https://github.com/gitcoinco/passport-scorer/tree/main/examples/example-score-a-passport) ⭐ 1 | 🐛 66 | 🌐 Jupyter Notebook | 📅 2026-11-27: Simple, HTML and JavaScript example of how to score a passport using the [Scorer API](https://www.scorer.gitcoin.co/).
+* [Score Integration](https://github.com/gitcoinco/passport-scorer/tree/main/examples/score-showcase) ⭐ 1 | 🐛 66 | 🌐 Jupyter Notebook | 📅 2026-11-27 A Next.js app demonstrating how to integrate a user's passport score.
   * [Demo](https://score-showcase.vercel.app/)
-* [Score Gating](https://github.com/gitcoinco/passport-scorer/tree/main/examples/score-gating) ⭐ 1 | 🐛 65 | 🌐 Jupyter Notebook | 📅 2026-11-26 A Next.js app demonstrating how to gate content.
+* [Score Gating](https://github.com/gitcoinco/passport-scorer/tree/main/examples/score-gating) ⭐ 1 | 🐛 66 | 🌐 Jupyter Notebook | 📅 2026-11-27 A Next.js app demonstrating how to gate content.
   * [Demo](https://score-gating.vercel.app/)
-* [Airdrop](https://github.com/gitcoinco/passport-scorer/tree/main/examples/airdrop) ⭐ 1 | 🐛 65 | 🌐 Jupyter Notebook | 📅 2026-11-26 A Next.js app for collecting addresses for an airdrop.
+* [Airdrop](https://github.com/gitcoinco/passport-scorer/tree/main/examples/airdrop) ⭐ 1 | 🐛 66 | 🌐 Jupyter Notebook | 📅 2026-11-27 A Next.js app for collecting addresses for an airdrop.
   * [Demo](https://airdrop-five.vercel.app/)
 
 ### Passport SDK
 
-* [Example Nextjs Passport SDK Verifier](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-nextjs-passport-sdk-verifier) ⭐ 84 | 🐛 13 | 🌐 TypeScript | 📅 2023-11-30: Sample Next.js application demonstrating how to use the Passport Verifier.
-* [Example Passport SDK Reader](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-passport-sdk-reader) ⭐ 84 | 🐛 13 | 🌐 TypeScript | 📅 2023-11-30: A simple React application demonstrating how to work with the Passport SDK Stamp Reader.
-* [Example Passport SDK Verifier](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-passport-sdk-verifier) ⭐ 84 | 🐛 13 | 🌐 TypeScript | 📅 2023-11-30: A simple React application demonstrating how to work with the Passport SDK Stamp Verifier.
+* [Example Nextjs Passport SDK Verifier](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-nextjs-passport-sdk-verifier) ⭐ 84 | 🐛 12 | 🌐 TypeScript | 📅 2023-11-30: Sample Next.js application demonstrating how to use the Passport Verifier.
+* [Example Passport SDK Reader](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-passport-sdk-reader) ⭐ 84 | 🐛 12 | 🌐 TypeScript | 📅 2023-11-30: A simple React application demonstrating how to work with the Passport SDK Stamp Reader.
+* [Example Passport SDK Verifier](https://github.com/gitcoinco/passport-sdk/tree/main/examples/example-passport-sdk-verifier) ⭐ 84 | 🐛 12 | 🌐 TypeScript | 📅 2023-11-30: A simple React application demonstrating how to work with the Passport SDK Stamp Verifier.
 * [Scaffold Eth](https://github.com/farque65/Scaffold-eth-gitcoin-passport) ⭐ 9 | 🐛 1 | 🌐 CSS | 📅 2022-12-02: Scaffold-ETH Passport starter and demo codebase for how to use Passport in a React application.
 * [Passport Checker](https://github.com/Rask467/passport-checker) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2022-06-17: Community reference application showing what you can do with Passport and how to integrate it into a Next.js application.
 
@@ -155,12 +155,12 @@ Tutorials and guides for how to work with Passports.
 Sample implementations of Stamp Providers. Use these as a reference for
 implementing your own.
 
-* [Google OAuth Stamp](https://github.com/gitcoinco/passport/pull/31) ⭐ 2 | 🐛 845 | 🌐 TypeScript | 📅 2026-11-26
-* [ENS Stamp](https://github.com/gitcoinco/passport/pull/71) ⭐ 2 | 🐛 845 | 🌐 TypeScript | 📅 2026-11-26
-* [Proof of Humanity Stamp](https://github.com/gitcoinco/passport/pull/75) ⭐ 2 | 🐛 845 | 🌐 TypeScript | 📅 2026-11-26
-* [Twitter OAuth Stamp](https://github.com/gitcoinco/passport/pull/87) ⭐ 2 | 🐛 845 | 🌐 TypeScript | 📅 2026-11-26
-* [Facebook Stamp](https://github.com/gitcoinco/passport/pull/94) ⭐ 2 | 🐛 845 | 🌐 TypeScript | 📅 2026-11-26
-* [BrightId Stamp](https://github.com/gitcoinco/passport/pull/126) ⭐ 2 | 🐛 845 | 🌐 TypeScript | 📅 2026-11-26
+* [Google OAuth Stamp](https://github.com/gitcoinco/passport/pull/31) ⭐ 2 | 🐛 846 | 🌐 TypeScript | 📅 2026-11-27
+* [ENS Stamp](https://github.com/gitcoinco/passport/pull/71) ⭐ 2 | 🐛 846 | 🌐 TypeScript | 📅 2026-11-27
+* [Proof of Humanity Stamp](https://github.com/gitcoinco/passport/pull/75) ⭐ 2 | 🐛 846 | 🌐 TypeScript | 📅 2026-11-27
+* [Twitter OAuth Stamp](https://github.com/gitcoinco/passport/pull/87) ⭐ 2 | 🐛 846 | 🌐 TypeScript | 📅 2026-11-27
+* [Facebook Stamp](https://github.com/gitcoinco/passport/pull/94) ⭐ 2 | 🐛 846 | 🌐 TypeScript | 📅 2026-11-27
+* [BrightId Stamp](https://github.com/gitcoinco/passport/pull/126) ⭐ 2 | 🐛 846 | 🌐 TypeScript | 📅 2026-11-27
 
 ([Back to the top](#top))
 
@@ -183,4 +183,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
